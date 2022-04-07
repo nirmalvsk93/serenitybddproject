@@ -1,0 +1,16 @@
+webElements\handlingIFrames.class
+testCases\GmailTest.class
+webElements\handlingTabsAndPopups.class
+webElements\handlingLinks.class
+webElements\handlingResizableElements.class
+webElements\handlingAlerts.class
+testCases\SerenityGmailTest.class
+webElements\handlingDragAndDrop.class
+webElements\handlingSlider.class
+webElements\handlingHTMLWebtables.class
+testCases\LoginTest.class
+webElements\uploadingImage.class
+webElements\handlingRightClick.class
+webElements\handlingCheckboxes.class
+webElements\handlingDropdowns.class
+webElements\handlingMouseOver.class
